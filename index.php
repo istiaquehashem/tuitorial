@@ -120,4 +120,4 @@ Template Name:Blog
   </section>
   <!-- End blog archive -->
 
-  <?php get_footer();?>
+ 
