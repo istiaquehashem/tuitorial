@@ -17,7 +17,7 @@ Template Name:Blog
           <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="single-page-header-left">
                  <h2>Blog Archive</h2>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+              <p>heloo my name is anim</p>
             </div>
           </div>
           <div class="col-md-6 col-sm-6 col-xs-12">
@@ -120,4 +120,4 @@ Template Name:Blog
   </section>
   <!-- End blog archive -->
 
- 
+  <?php get_footer();?>
